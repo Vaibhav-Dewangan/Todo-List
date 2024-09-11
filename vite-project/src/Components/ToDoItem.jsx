@@ -23,7 +23,7 @@ function ToDoItem(props){
       };
     
     return(
-        <div className="todoitem shadow-4sides rounded-lg xl:h-40 xl:w-80 lg:w-72 sm:w-72 w-64 p-4 h-36 ml-5 mt-5    flex justify-start bg-lime-100 ">
+        <div className="todoitem shadow-4sides rounded-lg xl:h-40 xl:w-80 lg:w-72 sm:w-72 w-64 p-4 h-36 sm:ml-5 mt-5    flex justify-start bg-lime-100 ">
         
         <div className="para w-72 overflow-y-auto  ">
         <p className="text-wrap">{props.newItemList}</p>
