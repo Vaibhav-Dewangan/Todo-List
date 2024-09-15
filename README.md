@@ -9,18 +9,29 @@ Features:
 - Delete to-do items when they're no longer needed
 - User-friendly interface with a clean and modern design
 
-How to Use:
 
-1. Type in the input field to add a new to-do item
-2. Click the "Add" button to add the item to your list
-3. Click the "Edit" button to edit an existing item
-4. Click the "Delete" button to delete an item from your list
+Usage Instructions:
+
+Adding a Task
+
+-Type your task in the input field.
+-Click the Add button to add it to the list.
+
+Editing a Task
+
+-Click the Edit button next to the task you want to change.
+-The task will appear in the input field for editing.
+-Make your changes, then click the Update button to save them.
+
+Deleting a Task
+
+-To remove a task, click the Delete button next to it.
 
 Built With:
 
 - React: A JavaScript library for building user interfaces
 - JavaScript: A high-level programming language for creating interactive web pages
-- CSS: A styling language for controlling the layout and appearance of web pages
+- CSS and Tailwind CSS : A styling language for controlling the layout and appearance of web pages
 
 Author:
 
